@@ -13,3 +13,7 @@ var b = 5;
 var add = a + b;
 
 console.log(add);
+
+var sub = a - b;
+
+console.log("sub = " + sub);
